@@ -1,0 +1,24 @@
+node_modules/
+dist/
+tmp/
+
+*.log
+*.tgz
+
+# core
+core/typings/
+
+# web
+web/typings/
+web/e2e/*.d.ts
+
+# mobile
+mobile/www/build/
+mobile/platforms/
+mobile/plugins/
+mobile/typings/
+*.swp
+
+.DS_Store
+Thumbs.db
+.idea
