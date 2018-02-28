@@ -1,6 +1,6 @@
 {
   "name": "ngrx-demo-mobile",
-  "author": "Benoit Hediard",
+  "author": "sami klah",
   "private": true,
   "scripts": {
     "clean": "ionic-app-scripts clean",
